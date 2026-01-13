@@ -50,11 +50,6 @@ Entorno reproducible en red local con IPs 10.0.2.x.
 - **Verificaciones**: nslookup para testing forward/reverse.
 - Integración Windows-Linux para gestión DNS.
 
-## Relevancia Profesional
-Habilidades para:
-- Redes empresariales (redundancia DNS).
-- DevOps/Cloud (base para DNS gestionados).
-- Ciberseguridad (configuraciones seguras).
 
 ## Conclusión
 Proyecto funcional con DNS redundante, listo para escalar.
